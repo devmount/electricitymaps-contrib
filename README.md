@@ -26,8 +26,9 @@ A real time and historical visualisation of the Greenhouse Gas Intensity (in ter
     ></a>
 </p>
 
-![image](https://raw.githubusercontent.com/electricitymaps/electricitymaps-contrib/master/web/public/images/electricitymap_social_image.png)
-
+![Screenshot](https://raw.githubusercontent.com/electricitymaps/electricitymaps-contrib/master/web/public/images/electricitymap_social_image_dark.png#gh-dark-mode-only)
+![Screenshot](https://raw.githubusercontent.com/electricitymaps/electricitymaps-contrib/master/web/public/images/electricitymap_social_image.png#gh-light-mode-only)
+  
 ## Introduction
 
 This project aims to provide a free, open-source, and transparent visualisation of the carbon intensity of electricity consumption around the world.
